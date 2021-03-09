@@ -1,2 +1,1 @@
-*.txt filter=indent
 date*.txt filter=dater
